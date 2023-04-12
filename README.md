@@ -1,5 +1,7 @@
 ### 我的网站 / My Website
 
+#### [240e.cc](https://240e.cc)
+- 个人博客 / Personal Blog
 
 #### [ipv6.stream](https://ipv6.stream)
 - 世界各地 IPv6 测试站点收集 / Collection of IPv6 testing sites around the world
